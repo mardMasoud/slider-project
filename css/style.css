@@ -21,9 +21,6 @@ img{
     position: relative;
     height: 400px;
     width: 400px;
-    right :-400px;
+    
    
-}
-.tr{
-    transform: translateX(-400px);
 }
